@@ -1,0 +1,5 @@
+Annotated C as C4
+Annotated CP as C5
+Annotated C as C6
+Annotated CP as C7
+Annotated DIPxx-1Axx-11x as K1
