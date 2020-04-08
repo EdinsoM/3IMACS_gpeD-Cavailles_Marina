@@ -176,7 +176,7 @@
   )
 
   (module CmpAmpliAudioTR:CP_Radial_D12.5mm_P5.00mm (layer F.Cu) (tedit 5E64C00F) (tstamp 5E8E0184)
-    (at 121.92 69.469)
+    (at 193.167 59.436)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=12.5mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 12.5mm Electrolytic Capacitor")
     (path /5E83B4D2)
@@ -440,7 +440,7 @@
   )
 
   (module CmpAmpliAudioTR:CP_Radial_D12.5mm_P5.00mm (layer F.Cu) (tedit 5E64C00F) (tstamp 5E8E00C8)
-    (at 33.909 69.469)
+    (at 105.156 59.436)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=12.5mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 12.5mm Electrolytic Capacitor")
     (path /5E82FC23)
@@ -704,7 +704,7 @@
   )
 
   (module CmpAmpliAudio:D_DO-35_SOD27_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C07F) (tstamp 5E8EFB32)
-    (at 30.48 122.682 270)
+    (at 101.727 112.649 270)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (path /5E7ACCD5)
@@ -757,7 +757,7 @@
   )
 
   (module CmpAmpliAudio:CP_Radial_D8.0mm_P5.00mm (layer F.Cu) (tedit 5E64BFB2) (tstamp 5E8DFDEB)
-    (at 72.39 141.478 270)
+    (at 143.637 131.445 270)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=8mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 8mm Electrolytic Capacitor")
     (path /5E7A4B4A)
@@ -944,7 +944,7 @@
   )
 
   (module CmpAmpliAudio:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2 (layer F.Cu) (tedit 5E64C050) (tstamp 5E8DFDFE)
-    (at 92.456 140.716)
+    (at 163.703 130.683)
     (descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*3.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf")
     (tags "C Rect series Radial pin pitch 5.00mm  length 7.2mm width 3.5mm Capacitor")
     (path /5E7BC4E3)
@@ -981,7 +981,7 @@
   )
 
   (module CmpAmpliAudio:CP_Radial_D8.0mm_P5.00mm (layer F.Cu) (tedit 5E64BFB2) (tstamp 5E8DFEA7)
-    (at 86.487 104.902)
+    (at 157.734 94.869)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=8mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 8mm Electrolytic Capacitor")
     (path /5E91F0E8)
@@ -1168,7 +1168,7 @@
   )
 
   (module CmpAmpliAudio:CP_Radial_D8.0mm_P5.00mm (layer F.Cu) (tedit 5E64BFB2) (tstamp 5E8DFF50)
-    (at 32.385 104.267)
+    (at 103.632 94.234)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=8mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 8mm Electrolytic Capacitor")
     (path /5E8A9806)
@@ -1355,7 +1355,7 @@
   )
 
   (module CmpAmpliAudio:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2 (layer F.Cu) (tedit 5E64C050) (tstamp 5E8EFD73)
-    (at 47.117 107.315 90)
+    (at 118.364 97.282 90)
     (descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*3.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf")
     (tags "C Rect series Radial pin pitch 5.00mm  length 7.2mm width 3.5mm Capacitor")
     (path /5E8A1EF5)
@@ -1392,7 +1392,7 @@
   )
 
   (module CmpAmpliAudio:CP_Radial_D8.0mm_P5.00mm (layer F.Cu) (tedit 5E64BFB2) (tstamp 5E8E000C)
-    (at 129.032 104.648 180)
+    (at 200.279 94.615 180)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=8mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 8mm Electrolytic Capacitor")
     (path /5E8AA15D)
@@ -1579,7 +1579,7 @@
   )
 
   (module CmpAmpliAudio:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2 (layer F.Cu) (tedit 5E64C050) (tstamp 5E8E001F)
-    (at 124.079 115.316)
+    (at 195.326 105.283)
     (descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*3.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf")
     (tags "C Rect series Radial pin pitch 5.00mm  length 7.2mm width 3.5mm Capacitor")
     (path /5E8A5BB2)
@@ -1616,7 +1616,7 @@
   )
 
   (module CmpAmpliAudio:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2 (layer F.Cu) (tedit 5E64C050) (tstamp 5E8F1634)
-    (at 113.284 59.055)
+    (at 184.531 49.022)
     (descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*3.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf")
     (tags "C Rect series Radial pin pitch 5.00mm  length 7.2mm width 3.5mm Capacitor")
     (path /5E82F432)
@@ -1653,7 +1653,7 @@
   )
 
   (module CmpAmpliAudio:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2 (layer F.Cu) (tedit 5E64C050) (tstamp 5E8E0197)
-    (at 37.211 57.785)
+    (at 108.458 47.752)
     (descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*3.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf")
     (tags "C Rect series Radial pin pitch 5.00mm  length 7.2mm width 3.5mm Capacitor")
     (path /5E83AB5C)
@@ -1690,7 +1690,7 @@
   )
 
   (module CmpAmpliAudio:D_DO-35_SOD27_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C07F) (tstamp 5E8E01B6)
-    (at 75.565 80.391)
+    (at 146.812 70.358)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (path /5E91D75C)
@@ -1743,7 +1743,7 @@
   )
 
   (module CmpAmpliAudio:D_DO-35_SOD27_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C07F) (tstamp 5E8EF888)
-    (at 76.581 85.852 270)
+    (at 147.828 75.819 270)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (path /5E91EAC1)
@@ -1796,7 +1796,7 @@
   )
 
   (module CmpAmpliAudio:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm (layer F.Cu) (tedit 5A1FFA20) (tstamp 5E8E0240)
-    (at 48.133 86.741)
+    (at 119.38 76.708)
     (descr "Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,")
     (tags "Heatsink fischer TO-220")
     (path /5E823DC0)
@@ -1919,7 +1919,7 @@
   )
 
   (module CmpAmpliAudio:Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm (layer F.Cu) (tedit 5A1FFA20) (tstamp 5E8E4067)
-    (at 112.903 86.741)
+    (at 184.07126 76.67752)
     (descr "Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,")
     (tags "Heatsink fischer TO-220")
     (path /5E83A096)
@@ -2042,7 +2042,7 @@
   )
 
   (module CmpAmpliAudio:PhoenixContact_MSTBVA_2,5_2-G-5,08_1x02_P5.08mm_Vertical (layer F.Cu) (tedit 5B785047) (tstamp 5E8E0342)
-    (at 99.441 61.341 180)
+    (at 170.688 51.308 180)
     (descr "Generic Phoenix Contact connector footprint for: MSTBVA_2,5/2-G-5,08; number of pins: 02; pin pitch: 5.08mm; Vertical || order number: 1755736 12A || order number: 1924305 16A (HC)")
     (tags "phoenix_contact connector MSTBVA_01x02_G_5.08mm")
     (path /5E920633)
@@ -2104,7 +2104,7 @@
   )
 
   (module CmpAmpliAudio:PhoenixContact_MSTBVA_2,5_3-G-5,08_1x03_P5.08mm_Vertical (layer F.Cu) (tedit 5B785047) (tstamp 5E8E0376)
-    (at 61.087 60.96 180)
+    (at 132.334 50.927 180)
     (descr "Generic Phoenix Contact connector footprint for: MSTBVA_2,5/3-G-5,08; number of pins: 03; pin pitch: 5.08mm; Vertical || order number: 1755749 12A || order number: 1924318 16A (HC)")
     (tags "phoenix_contact connector MSTBVA_01x03_G_5.08mm")
     (path /5E896C99)
@@ -2175,7 +2175,7 @@
   )
 
   (module CmpAmpliAudio:TO-18-3 (layer F.Cu) (tedit 5E64C6CB) (tstamp 5E8E038B)
-    (at 56.642 129.54)
+    (at 127.889 119.507)
     (descr TO-18-3)
     (tags TO-18-3)
     (path /5E7997A7)
@@ -2215,7 +2215,7 @@
   )
 
   (module CmpAmpliAudio:TO-18-3 (layer F.Cu) (tedit 5E64C6CB) (tstamp 5E8E03A0)
-    (at 48.26 129.286 180)
+    (at 119.507 119.253 180)
     (descr TO-18-3)
     (tags TO-18-3)
     (path /5E79A639)
@@ -2255,7 +2255,7 @@
   )
 
   (module CmpAmpliAudio:TO-18-3 (layer F.Cu) (tedit 5E64C6CB) (tstamp 5E8E03B5)
-    (at 52.197 117.475 270)
+    (at 123.444 107.442 270)
     (descr TO-18-3)
     (tags TO-18-3)
     (path /5E7A9F1F)
@@ -2295,7 +2295,7 @@
   )
 
   (module CmpAmpliAudio:TO-18-3 (layer F.Cu) (tedit 5E64C6CB) (tstamp 5E8E03CA)
-    (at 105.791 140.97 90)
+    (at 177.038 130.937 90)
     (descr TO-18-3)
     (tags TO-18-3)
     (path /5E7BB15B)
@@ -2335,7 +2335,7 @@
   )
 
   (module CmpAmpliAudio:TO-18-3 (layer F.Cu) (tedit 5E64C6CB) (tstamp 5E8E03DF)
-    (at 118.618 140.843 90)
+    (at 189.865 130.81 90)
     (descr TO-18-3)
     (tags TO-18-3)
     (path /5E7BB8DF)
@@ -2375,7 +2375,7 @@
   )
 
   (module CmpAmpliAudio:TO-18-3 (layer F.Cu) (tedit 5E64C6CB) (tstamp 5E8E03F4)
-    (at 111.252 125.73 270)
+    (at 182.499 115.697 270)
     (descr TO-18-3)
     (tags TO-18-3)
     (path /5E7DF98F)
@@ -2415,7 +2415,7 @@
   )
 
   (module CmpAmpliAudio:TO-18-3 (layer F.Cu) (tedit 5E64C6CB) (tstamp 5E8E0409)
-    (at 98.425 125.73 270)
+    (at 169.672 115.697 270)
     (descr TO-18-3)
     (tags TO-18-3)
     (path /5E7DF081)
@@ -2455,7 +2455,7 @@
   )
 
   (module CmpAmpliAudio:TO-126-3_Vertical (layer F.Cu) (tedit 5E64C417) (tstamp 5E8E0423)
-    (at 70.866 102.235)
+    (at 142.113 92.202)
     (descr "TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf")
     (tags "TO-126-3 Vertical RM 2.54mm")
     (path /5E7F8441)
@@ -2500,7 +2500,7 @@
   )
 
   (module CmpAmpliAudio:TO-126-3_Vertical (layer F.Cu) (tedit 5E64C417) (tstamp 5E8E043D)
-    (at 109.728 102.489)
+    (at 180.975 92.456)
     (descr "TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf")
     (tags "TO-126-3 Vertical RM 2.54mm")
     (path /5E809DA4)
@@ -2545,7 +2545,7 @@
   )
 
   (module CmpAmpliAudio:TO-220-3_Vertical (layer F.Cu) (tedit 5E64C44F) (tstamp 5E8E0457)
-    (at 45.593 90.678)
+    (at 117.0178 80.67294)
     (descr "TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf")
     (tags "TO-220-3 Vertical RM 2.54mm")
     (path /5E80AF49)
@@ -2590,7 +2590,7 @@
   )
 
   (module CmpAmpliAudio:TO-126-3_Vertical (layer F.Cu) (tedit 5E64C417) (tstamp 5E8E0471)
-    (at 56.007 102.235)
+    (at 127.254 92.202)
     (descr "TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf")
     (tags "TO-126-3 Vertical RM 2.54mm")
     (path /5E8004EA)
@@ -2635,7 +2635,7 @@
   )
 
   (module CmpAmpliAudio:TO-220-3_Vertical (layer F.Cu) (tedit 5E64C44F) (tstamp 5E8E048B)
-    (at 110.49 90.551)
+    (at 181.75986 80.67294)
     (descr "TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf")
     (tags "TO-220-3 Vertical RM 2.54mm")
     (path /5E80277B)
@@ -2680,7 +2680,7 @@
   )
 
   (module CmpAmpliAudio:TO-18-3 (layer F.Cu) (tedit 5E64C6CB) (tstamp 5E8E04A0)
-    (at 82.677 90.17)
+    (at 153.924 80.137)
     (descr TO-18-3)
     (tags TO-18-3)
     (path /5E8FB1D4)
@@ -2720,7 +2720,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E04B7)
-    (at 45.212 148.971 90)
+    (at 116.459 138.938 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E7A7877)
@@ -2761,7 +2761,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8F01FA)
-    (at 83.439 148.59 90)
+    (at 154.686 138.557 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E79F0CE)
@@ -2802,7 +2802,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E04E5)
-    (at 37.338 148.971 90)
+    (at 108.585 138.938 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E79F613)
@@ -2843,7 +2843,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E04FC)
-    (at 66.04 127.381 90)
+    (at 137.287 117.348 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E7ABB5D)
@@ -2884,7 +2884,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E0513)
-    (at 37.592 132.969 90)
+    (at 108.839 122.936 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E7AC19A)
@@ -2925,7 +2925,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E052A)
-    (at 90.043 148.082)
+    (at 161.29 138.049)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E7C1EF8)
@@ -2966,7 +2966,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E0541)
-    (at 80.264 125.095)
+    (at 151.511 115.062)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E7E34AE)
@@ -3007,7 +3007,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E0558)
-    (at 96.139 117.602)
+    (at 167.386 107.569)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E7DBA54)
@@ -3048,7 +3048,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E056F)
-    (at 72.517 127.381 90)
+    (at 143.764 117.348 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E7E30CC)
@@ -3089,7 +3089,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E0586)
-    (at 80.137 117.602)
+    (at 151.384 107.569)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E7E2CAF)
@@ -3130,7 +3130,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal (layer F.Cu) (tedit 5E64C254) (tstamp 5E8F148F)
-    (at 48.133 73.914)
+    (at 119.38 63.881)
     (descr "Resistor, Axial_DIN0516 series, Axial, Horizontal, pin pitch=20.32mm, 2W, length*diameter=15.5*5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0516 series Axial Horizontal pin pitch 20.32mm 2W length 15.5mm diameter 5mm")
     (path /5E81665B)
@@ -3171,7 +3171,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal (layer F.Cu) (tedit 5E64C254) (tstamp 5E8EE190)
-    (at 92.075 73.914)
+    (at 163.322 63.881)
     (descr "Resistor, Axial_DIN0516 series, Axial, Horizontal, pin pitch=20.32mm, 2W, length*diameter=15.5*5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0516 series Axial Horizontal pin pitch 20.32mm 2W length 15.5mm diameter 5mm")
     (path /5E81A777)
@@ -3212,7 +3212,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E05CB)
-    (at 68.453 67.945 90)
+    (at 139.7 57.912 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E8476B5)
@@ -3253,7 +3253,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E05E2)
-    (at 119.126 125.095)
+    (at 190.373 115.062)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E87EB74)
@@ -3294,7 +3294,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E05F9)
-    (at 119.126 132.08)
+    (at 190.373 122.047)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E7D079C)
@@ -3335,7 +3335,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8E0610)
-    (at 70.104 96.012 90)
+    (at 141.351 85.979 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E91FD9B)
@@ -3376,7 +3376,7 @@
   )
 
   (module CmpAmpliAudio:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5E64C1AA) (tstamp 5E8EFA2B)
-    (at 91.44 96.012 90)
+    (at 162.687 85.979 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E91F7B1)
@@ -3417,7 +3417,7 @@
   )
 
   (module CmpAmpliAudio:Potentiometer_Bourns_3296W_Vertical (layer F.Cu) (tedit 5E64C166) (tstamp 5E8E063E)
-    (at 103.759 109.22)
+    (at 175.006 99.187)
     (descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
     (tags "Potentiometer vertical Bourns 3296W")
     (path /5E7DB34D)
@@ -3459,7 +3459,7 @@
   )
 
   (module CmpAmpliAudio:Potentiometer_Bourns_3296W_Vertical (layer F.Cu) (tedit 5E64C166) (tstamp 5E8E0655)
-    (at 70.612 109.347)
+    (at 141.859 99.314)
     (descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
     (tags "Potentiometer vertical Bourns 3296W")
     (path /5E7E56E3)
@@ -3501,7 +3501,7 @@
   )
 
   (module CmpAmpliAudioTR:Relais_112LMH2 (layer F.Cu) (tedit 5E58207D) (tstamp 5E8E0675)
-    (at 94.107 99.695 90)
+    (at 165.354 89.662 90)
     (path /5E8EC916)
     (fp_text reference U1 (at 28.7 -6.9 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3544,7 +3544,7 @@
   )
 
   (module CmpAmpliAudioTR:Jack_35RAPC2AV (layer F.Cu) (tedit 5E64C0B5) (tstamp 5E8E0699)
-    (at 58.547 152.654 90)
+    (at 129.794 142.621 90)
     (path /5E8F30F4)
     (fp_text reference U2 (at 1.1 6.7 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3591,14 +3591,14 @@
       (net 31 "Net-(U2-PadT)"))
   )
 
-  (gr_line (start 25.4 53.34) (end 25.4 152.4) (layer F.SilkS) (width 0.15) (tstamp 5E8E0FDF))
-  (gr_line (start 134.62 53.34) (end 25.4 53.34) (layer F.SilkS) (width 0.15))
-  (gr_line (start 134.62 152.4) (end 134.62 53.34) (layer F.SilkS) (width 0.15))
-  (gr_line (start 25.4 152.4) (end 134.62 152.4) (layer F.SilkS) (width 0.15))
+  (gr_line (start 96.647 43.307) (end 96.647 142.367) (layer F.SilkS) (width 0.15) (tstamp 5E8E0FDF))
+  (gr_line (start 205.867 43.307) (end 96.647 43.307) (layer F.SilkS) (width 0.15))
+  (gr_line (start 205.867 142.367) (end 205.867 43.307) (layer F.SilkS) (width 0.15))
+  (gr_line (start 96.647 142.367) (end 205.867 142.367) (layer F.SilkS) (width 0.15))
 
-  (via (at 29.845 57.404) (size 3.5) (drill 3) (layers F.Cu B.Cu) (net 0))
-  (via (at 129.794 57.658) (size 3.5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E8E0FFA))
-  (via (at 29.718 147.447) (size 3.5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E8E0FFA))
-  (via (at 129.54 147.574) (size 3.5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E8E0FFA))
+  (via (at 101.092 47.371) (size 3.5) (drill 3) (layers F.Cu B.Cu) (net 0))
+  (via (at 201.041 47.625) (size 3.5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E8E0FFA))
+  (via (at 100.965 137.414) (size 3.5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E8E0FFA))
+  (via (at 200.787 137.541) (size 3.5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E8E0FFA))
 
 )
