@@ -859,9 +859,6 @@ Wire Wire Line
 Connection ~ 1850 7200
 Wire Wire Line
 	1850 7200 2300 7200
-Wire Wire Line
-	8600 3300 9350 3300
-Connection ~ 8600 3300
 $Comp
 L Device:Q_NPN_EBC Q13
 U 1 1 5E8FB1D4
@@ -873,8 +870,6 @@ F 3 "~" H 9300 4700 50  0001 C CNN
 	1    9300 4700
 	-1   0    0    -1  
 $EndComp
-Wire Wire Line
-	9350 3700 9200 3700
 $Comp
 L Diode:1N4148 D1
 U 1 1 5E91D75C
@@ -992,10 +987,6 @@ Wire Wire Line
 Connection ~ 10200 4700
 Wire Wire Line
 	10200 4700 10200 4350
-Wire Wire Line
-	10200 4050 10200 3700
-Wire Wire Line
-	10200 3700 9950 3700
 $Comp
 L power:+12V #PWR0118
 U 1 1 5E96AEE9
@@ -1007,11 +998,6 @@ F 3 "" H 10200 3600 50  0001 C CNN
 	1    10200 3600
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	10200 3600 10200 3700
-Connection ~ 10200 3700
-Wire Wire Line
-	10450 3300 9950 3300
 $Comp
 L power:GND #PWR0119
 U 1 1 5E979B13
@@ -1023,8 +1009,6 @@ F 3 "" H 10350 3750 50  0001 C CNN
 	1    10350 3750
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	10450 3400 10350 3400
 Wire Wire Line
 	10350 3400 10350 3750
 Wire Wire Line
@@ -1115,13 +1099,13 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J2
 U 1 1 5E920633
-P 10650 3300
-F 0 "J2" H 10730 3292 50  0000 L CNN
-F 1 "Conn_01x02" H 10730 3201 50  0000 L CNN
-F 2 "CmpAmpliAudio:PhoenixContact_MSTBVA_2,5_2-G-5,08_1x02_P5.08mm_Vertical" H 10650 3300 50  0001 C CNN
-F 3 "~" H 10650 3300 50  0001 C CNN
-	1    10650 3300
-	1    0    0    -1  
+P 10700 3400
+F 0 "J2" H 10780 3392 50  0000 L CNN
+F 1 "Conn_01x02" H 10780 3301 50  0000 L CNN
+F 2 "CmpAmpliAudio:PhoenixContact_MSTBVA_2,5_2-G-5,08_1x02_P5.08mm_Vertical" H 10700 3400 50  0001 C CNN
+F 3 "~" H 10700 3400 50  0001 C CNN
+	1    10700 3400
+	1    0    0    1   
 $EndComp
 $Comp
 L CmpAmpliAudioTR:Relay_1CT U1
@@ -1132,7 +1116,7 @@ F 1 "Relay_1CT" V 10026 3500 50  0000 C CNN
 F 2 "CmpAmpliAudioTR:Relais_112LMH2" H 9650 3500 50  0001 C CNN
 F 3 "" H 9650 3500 50  0001 C CNN
 	1    9650 3500
-	0    -1   -1   0   
+	0    1    -1   0   
 $EndComp
 $Comp
 L power:PWR_FLAG #FLG0101
@@ -1209,4 +1193,20 @@ Wire Wire Line
 	1300 6550 1500 6550
 Wire Wire Line
 	1300 6750 1500 6750
+Wire Wire Line
+	10500 3400 10350 3400
+Wire Wire Line
+	10200 3600 10200 3700
+Wire Wire Line
+	9350 3300 8600 3300
+Connection ~ 8600 3300
+Wire Wire Line
+	9950 3300 10500 3300
+Wire Wire Line
+	9350 3700 9200 3700
+Wire Wire Line
+	9950 3700 10200 3700
+Connection ~ 10200 3700
+Wire Wire Line
+	10200 3700 10200 4050
 $EndSCHEMATC
